@@ -1,0 +1,10 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+sum_result = num1+num2
+diffenrence_result = num1-num2
+product_result = num1*num2
+
+print("sum_result: ",sum_result)
+print("diffenrence_result: ",diffenrence_result )
+print("product_result: ",product_result)
